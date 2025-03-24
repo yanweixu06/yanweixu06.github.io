@@ -1,0 +1,6 @@
+:root {
+    --primary: #2A2F4F;  // 主背景色
+    --secondary: #917FB3; // 强调色
+    --accent: #E5BEEC;   // 高亮色
+    --text: #FDE2F3;     // 主文本色
+}
